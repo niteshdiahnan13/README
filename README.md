@@ -1,16 +1,16 @@
-# Hey there 👋, I'm Nitesh Diahnan
+# Hey there 👋 I'm Nitesh Diahnan
 
 ## 🚀 AI Engineer | 🤖 ML Enthusiast | 📊 Data Analyst
 
-🎯 I turn data into intelligent solutions using Python, ML, and visualization tools.
+🎯 I turn data into intelligent, scalable solutions using Python, machine learning, and visualization tools.
 
 ---
 
 ## 💡 About Me
 
-- 🔭 Currently working on AI & ML Projects  
-- 🧪 Exploring data analysis and automation  
-- 📊 Building dashboards to turn numbers into stories  
+- 🔭 Currently building AI & ML projects with real-world impact  
+- 🧪 Exploring automation, backend engineering, and data modeling  
+- 📊 Designing dashboards that turn numbers into narratives  
 - 💬 Ask me about **Python**, **Machine Learning**, or **Data Visualization**
 
 ---
@@ -34,14 +34,15 @@
 ## 📈 GitHub Stats
 
 ![Nitesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=niteshdiahnan13&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niteshdiahnan13&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=niteshdiahnan13&layout=compact&theme=tokyonight)
 
 ---
 
 ## 📫 Connect with Me
 
 [![Instagram](https://img.shields.io/badge/@dnitesh13-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dnitesh13/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-niteshdiahnan13-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/niteshdiahnan13)
+[![Website](https://img.shields.io/badge/Portfolio-niteshresume.com-0A66C2?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://dat10101010101010101010.on.drv.tw/www.niteshresume.com/Index.html)
 
 ---
 
