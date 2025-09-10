@@ -14,20 +14,35 @@
 - 💬 Ask me about **Python**, **Machine Learning**, or **Data Visualization**
 
 ---
+Absolutely, Nitesh — here’s your fully expanded Tech Stack section with Power BI added, rounding out your expertise in data visualization and business intelligence:
 
-## 🛠️ Tech Stack
+🛠️ Tech Stack
+Languages & Tools
+Python
+R
+SQL
+Java
+JavaScript
+C
+C#
+Scratch
+Frameworks & Libraries
+Flask
+Pandas
+NumPy
+Matplotlib
+Scikit-Learn
+React
+Jupyter
+Tools & Platforms
+Excel
+Power BI
+Tableau
+AWS
+Postman
+VS Code
+Git
 
-**Languages & Tools**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
